@@ -7,7 +7,7 @@
 
 ### 🚀 Projects I'm Working On
 
-- 🔧 **[pax](https://github.com/ImRealRage/pax)** – A Git clone written in Python. Supports commit history, branching, HEAD, and file restoration from tree objects.
+- 🔧 **[pax](https://github.com/ImRealRage/p4x)** – A Git clone written in Python. Supports commit history, branching, HEAD, and file restoration from tree objects.
 - 🚚 **Inventory & Route Optimization System** – A system that manages stock levels and uses Dijkstra's algorithm to find optimal truck routes.
 - 🧰 **Enterprise Admin Panel** – A web app built with GWT to manage assets, user profiles, and logs. Focused on data consistency and UI responsiveness.
 
