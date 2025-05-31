@@ -33,6 +33,6 @@
 ### 📫 Let's Connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/kanishk-shukla/)
-- ✉️ your.email@example.com
+- ✉️ main.kanishk@gmail.com
 
 Thanks for stopping by! ✨
