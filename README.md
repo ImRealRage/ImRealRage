@@ -1,4 +1,4 @@
-# Hi there 👋 I'm [Your Name]
+# Hi there 👋 I'm Rage
 
 🎓 I'm a Computer Science and Engineering student passionate about building efficient and scalable software systems.  
 💼 Currently interning in the fintech industry, gaining hands-on experience in enterprise-scale development and deployment.
